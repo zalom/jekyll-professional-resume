@@ -1,0 +1,26 @@
+subject: Achievements
+listing-order: 2
+icon: "/assets/img/trophy.svg"
+contents:
+  - title: 2024
+    ref: 
+      - "EuRuKo 2024 [Org team](https://2024.euruko.org/team/), Sarajevo, 11-13 September"
+  - title: 2019
+    ref:
+      - "Mentor at [NASA Space Apps Challenge Tuzla 2019](https://2019.spaceappschallenge.org/locations/tuzla), Tuzla, 17-19 October"
+  - title: 2017
+    ref:
+      - "Technical reviewer at Packt Publishing “[Bootstrap 4 Cookbook](https://www.packtpub.com/en-us/product/bootstrap-4-cookbook-9781785889295)“, 1-20 June"
+  - title: 2016
+    ref:
+      - "Mentor and lecturer at “[Europe CodeWeek 2016 - Peace of Code](https://codeweek.eu/view/13266/peace-of-code)“, Tuzla, 20-23 October"
+      - "Mentor and lecturer at “Junior Ruby on Rails Web Developer Course”,  Tuzla, June 20"
+      - "Mentor and lecturer at “freeCodeCamp Tuzla Workshop“, Tuzla, May 9"
+      - "FreeCodeCamp campsite leader"
+  - title: 2010
+    ref:
+      - "Lecturer on behalf of Leftor doo. at “GIS and GPS Workshop”, EESTEC and IEEE event, Tuzla"
+      - "Mentor at [NASA Space Apps Challenge Tuzla 2019](https://2019.spaceappschallenge.org/locations/tuzla), Tuzla, 17-19 October"
+  - title: 2009
+    ref:
+      - "Co-Founder and Contact Person, EESTEC, JLC Tuzla, Tuzla"

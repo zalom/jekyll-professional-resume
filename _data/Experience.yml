@@ -1,22 +1,72 @@
 subject: Experiences
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Mahalo.so, Talin (Estonia) / Porto (Portugal)
+    role: Senior Technical Consultant (part-time, remote, contract)
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Tasked with feature development, application design, system testing, and bug fixing.
+      - Contract also included improving documentation, test coverage, and code improvements
+      - "Technical environment: Ruby on Rails, PostgreSQL, RSpec, Tailwind CSS, StimulusJS, GitHub, Heroku, Sentry, Metabase, AWS, Cursor, RubyMine, VS Code, ChatGPT, Tmux"
+    date: Nov. 2023 - Feb. 2024
+  - title: Marketer Real Estate Technologies AS, Oslo (Norway)
+    role: Lead Software Developer (full-time, remote)
+    description:
+      - My daily work included overseeing, supporting, and leading engineering teams working on a distributed system.
+      - "Technical environment: Ruby on Rails, PostgreSQL, RSpec, Jira, GitHub, Heroku, BugSnag, Sentry, Metabase, AWS, RubyMine, VS Code, Tmux"
+    date: Mar. 2022 - Apr. 2023
+  - title: Marketer Real Estate Technologies AS, Oslo (Norway)
+    role: Senior Software Developer (full-time, remote)
+    description:
+      - Worked on programmatic marketing and digital advertising CRM in the Real Estate industry.
+      - Oversaw programmatic conversion and consumption of Real Estate data obtained from external integrations
+      - API development, API and CRM integrations, database maintenance, scripting
+      - Oversaw full SDLC, full-stack development with minimum DevOps
+      - "Technical environment: Ruby on Rails, JavaScript (ES6), ReactJS, PostgreSQL, RSpec, Heroku, AWS, Jira, Airtable, BugSnag, Sentry, GitHub, Metabase, RubyMine, VS Code, Tmux"
+    date: Apr. 2021 - Mar. 2022
+  - title: Ideaology.io, Dubai (UAE)
+    role: Technical consultant (part-time, remote, contract)
+    description:
+      - Overlooked technical decisions, development stack
+      - Oversaw technical recruitment process
+      - "Technical environment: NodeJS, ReactJS, PostgreSQL, GitHub"
+    date: Apr. 2021 - Apr. 2022
+  - title: Coflyt LLC, Pensacola (USA)
+    role: Senior Software Engineer (full-time, remote)
+    description:
+      - Code quality assessment, codebase optimization, API integrations, new feature development, and bug-fixes
+      - "Technical environment: Ruby on Rails, JavaScript (ES6), PostgreSQL, RSpec, Bootstrap 4, CSS3 (Flexbox), Heroku, GitHub, Rollbar, RubyMine, VS Code, Tmux"
+    date: June 2020 - Feb. 2021
+  - title: Up and Running Software, Ames (USA)
+    role: Software Engineer (full-time, remote)
+    description:
+      - Responsible for miscellaneous full-stack tasks, ranging from new feature development to bug fixes and platform maintenance and scripting.
+      - CRM app development including API integrations, reporting services, inventory management, etc.
+      - "Technical environment: Ruby on Rails, CoffeeScript, ES6, VueJS, Vuetify, PostgreSQL, RSpec, Bootstrap 3/4, CSS3 (Flexbox), Redis, SOLR, Elm, GitHub, Jira, RubyMine, VS Code, Tmux"
+    date: July 2017 - June 2020
+  - title: SabeOnline (rebrand. Bugle), Lisbon (Portugal)
+    role: Backend Ruby on Rails Developer (full-time, remote, contract)
+    description:
+      - In charge of API development and DB maintenance for an educational CMS.
+      - "Technical environment: Ruby on Rails, PostgreSQL, RSpec, GitHub, VS Code"
+    date: Apr. 2017 - July 2017
+  - title: Codeplace.com, Porto (Portugal)
+    role: Lead Content Developer (full-time, remote, contract)
+    description:
+      - In charge of optimizing and managing Author Network
+      - Led content development of Ruby on Rails tutorials
+      - "Technical environment: Ruby on Rails, JavaScript (ES6), PostgreSQL, RSpec, Bootstrap 3, CSS3 (Flexbox), GitLab, Basecamp, VS Code, Tmux"
+    date: Dec. 2016 - Mar. 2017
+  - title: MiaVision doo, Tuzla (BiH)
+    role: Software Engineer (full-time, on-site)
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Built MVPs with (mostly) EmberJS frontend and Ruby on Rails backend.
+      - "Technical environment: Ruby on Rails, JavaScript (ES6), EmberJS, PostgreSQL, RSpec, Cucumber, Gherkin, SQLite, Bootstrap 3, Bourbon (SASS), CSS3 (Flexbox), GitHub, VS Code, SublimeText, Tmux"
+    date: May 2016 - Dec. 2016
+  - title: Dalia doo, Tuzla (BiH)
+    role: Software Engineer / Team Lead (full-time, on-site)
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Developed ERP solutions for a local company.
+      - Lead a small team of three using Microsoft technologies
+      - "Technical environment: C#.NET, MS SQL Server, WinForms, Teams, Git, MS Visual Studio"
+    date: Mar. 2015 - Dec. 2015
