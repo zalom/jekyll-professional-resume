@@ -1,10 +1,10 @@
 subject: Achievements
-listing-order: 2
+listing-order: 8
 icon: "/assets/img/trophy.svg"
 contents:
   - title: 2024
     ref: 
-      - "EuRuKo 2024 [Org team](https://2024.euruko.org/team/), Sarajevo, 11-13 September"
+      - "[EuRuKo](https://euruko.org/) 2024 [Org team](https://2024.euruko.org/team/), Sarajevo, 11-13 September"
   - title: 2019
     ref:
       - "Mentor at [NASA Space Apps Challenge Tuzla 2019](https://2019.spaceappschallenge.org/locations/tuzla), Tuzla, 17-19 October"

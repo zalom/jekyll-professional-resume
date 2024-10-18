@@ -1,0 +1,17 @@
+subject: Abilities
+listing-order: 2
+icon: /assets/img/handshake.svg
+contents:
+  - title:
+    description:
+      - Technical leadership, consulting, coaching, presenting
+      - Technical product engineering & management
+      - Identifying & resolving bottlenecks, improving code deliveries
+      - Leading engineering teams working on distributed system
+      - Compassion, empathy, storytelling, people skills, teamwork, communication
+      - Public speaking (conferences & meetups)
+      - Taking charge of full SDLC covering both ends of the stack
+      - Software architecture, API development, API & CRM integrations, database maintenance, scripting
+      - Full-stack engineering (slightly leaning to the backend side)
+      - Code reviews, refactoring & testing, code quality assurance
+      - Implementing and following Kanban, Scrum, and Agile

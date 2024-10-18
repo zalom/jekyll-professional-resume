@@ -1,26 +1,25 @@
 document.addEventListener('DOMContentLoaded', function(){
     var headers = document.querySelectorAll('.subject-name');
+    const tocbox = document.querySelector('.toc-box');
 
-    // Code for sidebar (not liking it)
-    // const tocbox = document.querySelector('.toc-box');
-    // headers.forEach((h) => {
-    //     let tocItem = document.createElement("li");
-    //     tocItem.id = "toc-id-" + h.textContent;
+    headers.forEach((h) => {
+        let tocItem = document.createElement("li");
+        tocItem.id = "toc-id-" + h.textContent;
 
-    //     let itemLink = document.createElement("a");
-    //     itemLink.classList.add("content-link");
-    //     itemLink.textContent = h.textContent;
+        let itemLink = document.createElement("a");
+        itemLink.classList.add("content-link");
+        itemLink.textContent = h.textContent;
 
-    //     tocItem.append(itemLink);
+        tocItem.append(itemLink);
 
-    //     tocItem.addEventListener('click', function(){
-    //         h.scrollIntoView({
-    //             behavior: 'smooth'
-    //         });
-    //     });
+        tocItem.addEventListener('click', function(){
+            h.scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
 
-    //     tocbox.append(tocItem);
-    // });
+        tocbox.append(tocItem);
+    });
 
     var contents = document.querySelectorAll('.subject, .item');
 
@@ -28,9 +27,9 @@ document.addEventListener('DOMContentLoaded', function(){
         var scrollPos = document.documentElement.scrollTop;
         var wh = window.innerHeight;
 
-        // Array.from(tocbox.querySelectorAll('li')).forEach(function(tocItem){
-        //     tocItem.classList.remove('active');
-        // });
+        Array.from(tocbox.querySelectorAll('li')).forEach(function(tocItem){
+            tocItem.classList.remove('active');
+        });
 
         var currHead;
 
@@ -50,9 +49,9 @@ document.addEventListener('DOMContentLoaded', function(){
             c.classList.add('appear');
         });
 
-        // if (currHead != undefined){
-        //     let tocLink = document.getElementById("toc-id-" + currHead.textContent);
-        //     tocLink.classList.add('active');
-        // }
+        if (currHead != undefined){
+            let tocLink = document.getElementById("toc-id-" + currHead.textContent);
+            tocLink.classList.add('active');
+        }
     }, 200);
 });

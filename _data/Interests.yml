@@ -1,0 +1,11 @@
+subject: Interests
+listing-order: 4
+icon: "/assets/img/astronaut.svg"
+contents:
+  - title:
+    description:
+      - "_**DevOPs**_: IaC (Terraform and Ansible), Docker, Kubernetes, and cloud (AWS & GCP), Proxmox"
+      - "_**Cybersecurity**_: Web and cloud security, penetration testing and DevSecOPs"
+      - "_**General**_: Web application architecture, customer-centric development, system design"
+      - "_**AI**_: Patterns of application development with AI modules and self-healing code"
+      - "_**Actively exploring**_: Go, Elixir, Python, Clojure"
