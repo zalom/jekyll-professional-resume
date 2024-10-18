@@ -122,9 +122,9 @@
                       {% if item[1].first %}
                         <ul>
                           {% for subitem in item[1] %}
-                          <li class="subitem">
-                            {{ subitem | markdownify }}
-                          </li>
+                            <li class="subitem">
+                              {{ subitem | markdownify }}
+                            </li>
                           {% endfor %}
                         </ul>
                       {% else %}
